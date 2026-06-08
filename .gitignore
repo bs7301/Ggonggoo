@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Build
+frontend/.next/
+backend/dist/
+
+# DB
+backend/db.sqlite
+
+# Env
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.kiro/
+.kiro-server/
+
+# Cache
+.cache/
+*.log
+
+# pnpm
+.pnpm-store/
